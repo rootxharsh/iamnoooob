@@ -6,7 +6,7 @@ This is Rahul!
 
 - 🌱 Currently learning Java specific attacks and how to approach Java based applications from security code review perspective.
 
-- 👯 I’m usually seen collaborating with @rootxharsh to find 0days or reverse N-days(CVEs) for fun & learning [here](https://github.com/iamnoooob/CVE-Reverse/)
+- 👯 I’m usually seen collaborating with [@rootxharsh](https://github.com/rootxharsh) to find 0days or reverse N-days(CVEs) for fun & learning [here](https://github.com/iamnoooob/CVE-Reverse/)
 
 ### Some articles/blogs I have written:
 - https://noob.ninja/
@@ -14,4 +14,4 @@ This is Rahul!
 
 ### 📫 How to reach me:
 
-[Twitter](https://twitter.com/iamnoooob)
+- [Twitter](https://twitter.com/iamnoooob)
